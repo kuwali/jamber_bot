@@ -1,0 +1,27 @@
+{
+  "name": "jamber_bot",
+  "version": "1.0.0",
+  "description": "Jamber (Satu jam bersama) Bot for Telegram",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^3.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuwali/jamber_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram"
+  ],
+  "author": "Kustiawanto Halim (kuwali)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuwali/jamber_bot/issues"
+  },
+  "homepage": "https://github.com/kuwali/jamber_bot#readme"
+}
