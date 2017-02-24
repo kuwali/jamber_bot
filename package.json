@@ -4,6 +4,7 @@
   "description": "Jamber (Satu jam bersama) Bot for Telegram",
   "main": "index.js",
   "dependencies": {
+    "node-telegram-bot-api": "^0.27.0",
     "telegraf": "^3.6.6"
   },
   "devDependencies": {},
